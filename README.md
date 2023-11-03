@@ -1,2 +1,5 @@
 # phylogenomics
-Hello! This repo is an introduction of phylogenomics pipelines and methods design as material for the Phylogenomics class at Uniandes
+Hello! This repo introduces phylogenomics pipelines and methods designed as a material for the Phylogenomics BCOM4101 class at Uniandes. 
+
+
+
